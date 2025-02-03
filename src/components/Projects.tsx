@@ -6,7 +6,7 @@ const Projects = () => {
       title: "DeepSight",
       description: "The rapid rise of deepfakes demands advanced detection technologies, stricter regulations, and public awareness to mitigate their societal impact and ensure digital content integrity.",
       image: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=800",
-      preview: "/svg/deepsight.svg",
+      preview: "deepsight.svg",
       github: "https://github.com/EDJ008E/deepsight.git",
       type: "github"
     },
@@ -14,7 +14,7 @@ const Projects = () => {
       title: "AQUACULTURE SENSOR MONITORING FOR FISH CARE",
       description: "Real-time water monitoring with sensors enables aquaculturists to manage environmental conditions, prevent diseases, and ensure optimal fish welfare in aquaculture.",
       image: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=800",
-      preview: "/svg/fish.svg",
+      preview: "fish.svg",
       github: "https://www.youtube.com/watch?v=Ti1FMzVZLrc",
       type: "youtube"
     },
@@ -22,7 +22,7 @@ const Projects = () => {
       title: "Vision X",
       description: "Vision Xplore is a smart glasses solution powered by AI to help visually impaired people. It uses advanced technologies like AI, machine learning, deep learning, and natural language processing to provide an affordable and effective way to improve their mobility and independence.",
       image: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=800",
-      preview: "/svg/vision.svg",
+      preview: "vision.svg",
       github: "https://www.youtube.com/watch?v=UhL84DoNy_k&t=1s",
       type: "youtube"
     },
@@ -30,7 +30,7 @@ const Projects = () => {
       title: "Timetable Generator System",
       description: "A Time Table Generator System is software designed to automate the creation of organized and efficient schedules for institutions or individuals.",
       image: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=800",
-      preview: "/svg/time table.svg",
+      preview: "time table.svg",
       github: "https://github.com/EDJ008E/timetable-psna.git",
       type: "github"
     },
@@ -38,7 +38,7 @@ const Projects = () => {
       title: "Waiter Tips Prediction using ML",
       description: "Waiter Tips Prediction using Machine Learning is a project that leverages data analysis and machine learning algorithms to predict the amount of tips a waiter might receive based on factors such as bill amount, customer demographics, service quality, and other relevant variables.",
       image: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=800",
-      preview: "/svg/FutureSales.svg",
+      preview: "WaiterTips.svg",
       github: "https://github.com/EDJ008E/Waiter_Tips_Prediction_using_ML.git",
       type: "github"
     },
@@ -47,7 +47,7 @@ const Projects = () => {
       title: "Future Sales prediction With ML",
       description: "Future Sales Prediction with Machine Learning is a project focused on forecasting future sales trends by analyzing historical data using machine learning techniques. It helps businesses make data-driven decisions by identifying patterns, seasonality, and influencing factors to optimize inventory, marketing strategies, and revenue growth.",
       image: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=800",
-      preview: "/svg/FutureSales.svg",
+      preview: "FutureSales.svg",
       github: "https://github.com/EDJ008E/Future-Sales-prediction-With-ML.git",
       type: "github"
     }

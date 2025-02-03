@@ -54,7 +54,7 @@ const About = () => {
             <div className="relative group max-w-sm mx-auto">
               <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-indigo-600 rounded-xl blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-300"></div>
               <img 
-                src="/svg/me.svg"  
+                src="me.svg"  
                 alt="Professional portrait" 
                 className="relative rounded-xl w-full object-cover aspect-square shadow-xl"
               />
