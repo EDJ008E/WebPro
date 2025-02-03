@@ -35,7 +35,7 @@ const Hero = () => {
           </div>
 
           {/* Action Buttons */}
-          <div className="flex flex-wrap gap-4 pt-8 animate-fade-in">
+          {/* <div className="flex flex-wrap gap-4 pt-8 animate-fade-in">
             <a
               href="/Edwin Joel P.pdf" // Path to your CV file in the `public` directory
               download="Edwin Joel cv.pdf" // Specify the downloaded file name
@@ -49,7 +49,7 @@ const Hero = () => {
           </div>
 
           {/* Social Links */}
-          <div className="flex space-x-6 pt-4 animate-fade-in px-2">
+          <div className="flex space-x-8 pt-8 animate-fade-in px-2">
             <a 
               href="https://github.com/EDJ008E" 
               className="p-2 bg-gray-800/50 rounded-lg hover:bg-gray-800 transition-colors"
@@ -74,7 +74,6 @@ const Hero = () => {
           </div>
         </div>
       </div>
-    </div>
   );
 };
 
