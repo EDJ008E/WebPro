@@ -20,7 +20,7 @@ const Hero = () => {
               I'm <span className="gradient-text">Edwin Joel</span>
             </h1>
             <h3 className="text-4xl md:text-6xl font-bold text-white/90 mb-8 animate-fade-in">
-            Data Analysts & ML Enthusiast
+            Data Analyst & ML Enthusiast
             </h3>
           </div>
 
