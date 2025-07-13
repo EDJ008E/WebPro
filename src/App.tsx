@@ -2,9 +2,9 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Skills from './components/Skills';
+import Certificates from './components/certificates';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
-
 function App() {
   return (
     <div className="relative">
@@ -12,6 +12,7 @@ function App() {
       <Hero />
       <About />
       <Skills />
+      <Certificates />
       <Projects />
       <Contact />
     </div>

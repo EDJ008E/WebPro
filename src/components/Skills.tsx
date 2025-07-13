@@ -52,7 +52,7 @@ const Skills = () => {
       icon: < Palette className="text-purple-400" size={32} />,
       category: "Graphic Designer",
       description: [
-        "microsoft Clipchamp",
+        "Microsoft Clipchamp",
         "Adobe Photoshop",
         "Adobe Illustrator",
         "Canva"
