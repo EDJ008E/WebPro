@@ -50,6 +50,14 @@ const Projects = () => {
       preview: "FutureSales.svg",
       github: "https://github.com/EDJ008E/Future-Sales-prediction-With-ML.git",
       type: "github"
+    },
+    {
+      title: "Chatbot with mutli-modal AI support using lllama2, mistral and DeepSeek models",
+      description: "Chatbot with multi-modal AI support using Llama2, Mistral, and DeepSeek models is a project that integrates advanced natural language processing and machine learning techniques to create an intelligent conversational agent capable of understanding and responding to user queries only in text format.",
+      image: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=800",
+      preview: "https://www.nutanix.com/content/dam/nutanix/images/og-ai-solutions.png",
+      github: "https://github.com/EDJ008E/Future-Sales-prediction-With-ML.git",
+      type: "youtube"
     }
   ];
 

@@ -48,16 +48,6 @@ const Skills = () => {
         "REST APIs & GraphQL"
       ]
     },
-    {
-      icon: < Palette className="text-purple-400" size={32} />,
-      category: "Graphic Designer",
-      description: [
-        "Microsoft Clipchamp",
-        "Adobe Photoshop",
-        "Adobe Illustrator",
-        "Canva"
-      ]
-    }
   ];
 
   const techStack = [
